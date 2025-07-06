@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center"> 
     <img src="repo_images/banner-01.png" align="center"></img>
 </p>
@@ -183,3 +184,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE)
 # References 👏🏻
 
 - Some Design and Implementation Ideas are taken from [Ashutosh Hathidara's Portfolio Project](https://github.com/ashutosh1919/masterPortfolio) & [Saad Pasta's Portfolio Project](https://github.com/saadpasta/developerFolio)
+=======
+# Personal-Portfolio
+>>>>>>> f70b9b8f333e0e30c8448cf5014f8816b6a0a21e
