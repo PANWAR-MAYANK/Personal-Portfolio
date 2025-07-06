@@ -514,7 +514,7 @@ const projectcards = {
           color: "#3c0095",
         },
       ],
-      link: "https://github.com/PANWAR-MAYANK/Personal-Portfolio",
+      link: "https://panwar-mayank.vercel.app/",
       code: "https://github.com/PANWAR-MAYANK/Personal-Portfolio",
       linkcolor: "white",
     },
