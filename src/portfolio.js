@@ -491,7 +491,7 @@ const projectcards = {
       title: "Mayank's Portfolio",
       img_path: "acti.gif",
       description:
-        "Built a personal portfolio website using ReactJS to showcase projects, skills, and professional background interactively.",
+        "Built a personal portfolio website using ReactJS to showcase projects, skills, and professional background interactively. Deployed using Vercel Cloud.",
       tags: [
         {
           lang: "ReactJS",
