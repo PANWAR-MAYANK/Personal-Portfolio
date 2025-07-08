@@ -498,6 +498,10 @@ const projectcards = {
           color: "#004782",
         },
         {
+          lang: "JavaScript",
+          color: "#3c0095",
+        },
+        {
           lang: "Portfolio",
           color: "#820032",
         },
@@ -506,13 +510,10 @@ const projectcards = {
           color: "#c47206",
         },
         {
-          lang: "Streamlit",
+          lang: "Vercel",
           color: "#ff4b4b",
         },
-        {
-          lang: "JavaScript",
-          color: "#3c0095",
-        },
+        
       ],
       link: "https://panwar-mayank.vercel.app/",
       code: "https://github.com/PANWAR-MAYANK/Personal-Portfolio",
