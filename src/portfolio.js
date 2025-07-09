@@ -19,7 +19,7 @@ const greeting = {
   title: "Namaste!",
   sub: "Mayank Panwar",
   logo_name: "Mayank Panwar",
-  resumeLink: "https://drive.google.com/file/d/1zlscj3kiGVIvyssdsmwQAE0RX8lRFrx7/view?usp=sharing",
+  resumeLink: "https://drive.google.com/file/d/1nRtBF5d6ZtslDE8CkiFU4TKlnjEG3jGP/view?usp=sharing",
 };
 
 // home logos
