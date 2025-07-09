@@ -723,7 +723,7 @@ const resumeright = {
           ],
         },
         {
-          title: "Senior Executive Committee Member",
+          title: "Director - Event Management",
           subtitle: "YUVA NSUT Chapter",
           content: [
             "Contributed to community empowerment through youth engagement, cultural awareness campaigns, and initiatives focused on sustainable livelihoods.",
